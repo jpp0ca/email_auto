@@ -1,0 +1,6 @@
+Subject: Você foi selecionado!!
+Bem vindo a proxima fase do processo.
+Obrigado por escolher a sessão de Gestão de Pessoas.
+Sua entrevista está marcada para o dia {dia} às {hora} horas.
+
+Ass: Processo Impactus.
